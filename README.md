@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hola soy Angélica 👋
+Desarrolladora front end en constante aprendizaje, con conocimientos en 💻 Javascript, html, css, 🔥 firebase y en 🚀back end node.js, conocimiento del  framework ⚛️React. Con deseos de continuar aprendiendo nuevas tecnologias que me permitan aportar en la creacion de productos digitales que contribuyan a grandes cambios.
 
-<!--
-**Angelik4/Angelik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💛 Actualmente hago parte del bootcamp en Laboratoria 
+- 😁 Descubri que me encanta la programacion y me apaciona poder aprender cada dia mas 
+- 💁‍Me encanta ser empatica trabajando en equipo 
+- ✍ Con una mente recursiva y creativa
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### Encuentrame en:
+ - [Perfil linkedin](https://www.linkedin.com/in/mar%C3%ADa-ang%C3%A9lica-urrego-cuervo-1284a41b7/)
+ 
+ 
